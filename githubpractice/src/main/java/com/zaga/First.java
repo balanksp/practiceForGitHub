@@ -24,6 +24,9 @@ public class First {
       public static void New_Method(){
     System.out.println("this method wrote in the master branch , need to update in newBranch");
       }
-
+        
+    public static void pull_method(){
+    System.out.println("update from the github for pull request");
+      }
 
 }
