@@ -20,4 +20,10 @@ public class First {
 
         System.out.println("now i am in the newBranch this new update from newBranch");
       }
+
+      public static void New_Method(){
+    System.out.println("this method wrote in the master branch , need to update in newBranch");
+      }
+
+
 }
