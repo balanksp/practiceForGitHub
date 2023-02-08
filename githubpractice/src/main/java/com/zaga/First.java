@@ -29,4 +29,9 @@ public class First {
     System.out.println("update from the github for pull request");
       }
 
+public static void second_workspace(){
+    System.out.println("this method from 2nd workspace");
+      }
+
+
 }
