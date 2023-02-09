@@ -7,6 +7,11 @@ public class Second {
         System.out.println("push the code from new branch02 to new branch01");
         
         System.out.println("push the code from new branch to new branch01");
+
+       
+    }
+    public void second_method(){
+        System.out.println("push the second_method() code from new branch02 to new branch");
     }
 
     
